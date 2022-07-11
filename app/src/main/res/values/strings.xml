@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_android">Fragment Android</string>
+    <string name="add_android_fragment">Add Android Fragment</string>
+    <string name="delete_android_fragment">Delete Android Fragment</string>
+    <string name="back_stack_android_fragment">Back Stack Android Fragment</string>
+    <string name="input_text">Input Text</string>
+    <string name="send_data_fragment">Send Data Fragment</string>
+</resources>
